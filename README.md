@@ -24,3 +24,5 @@ The use of multiple websites and reference materials also contributed to improvi
 Furthermore, the task provided an opportunity to explore modern tools and technologies related to the project domain. Through continuous learning and research, a better understanding of industry practices and current technological trends was achieved. The knowledge gained during this task not only contributed to its successful completion but also helped in developing skills that can be applied in future projects and professional activities.
 
 Overall, Task 1 was completed successfully through a combination of detailed research, practical implementation, continuous learning, and effective utilization of online resources. The experience gained from working on this task enhanced technical knowledge, research capabilities, problem-solving skills, and the ability to independently learn and apply new concepts. The task served as a valuable learning experience and provided a strong foundation for understanding more advanced topics in the field.
+
+""Output"":https://github.com/user-attachments/files/28470056/CODTECH_Task1_Cloud_Storage_Setup_Report-1.pdf
