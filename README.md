@@ -10,6 +10,7 @@
 ""Duration"": 6 weeks
 
 ""Mentor:""Neela Santhosh 
+
 ""Description "":
 
 For the successful completion of Task 1, extensive research and analysis were carried out using a variety of online resources, technical documentation, educational platforms, tutorials, and reference materials. The primary objective of this task was to understand the required concepts thoroughly and implement the solution effectively by gathering accurate and reliable information from multiple sources. Since the task involved learning new concepts and technologies, a significant amount of time was dedicated to exploring different websites and comparing the information available on each platform.
